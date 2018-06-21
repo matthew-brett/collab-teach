@@ -24,6 +24,12 @@ inference using little or no mathematics.
 
 ## Licenses
 
-All files are copyright me, Matthew Brett, and are also covered by
-[Creative Commons Attribution 4.0 International Licence (CC BY
+Unless otherwise specified, all files are copyright me, Matthew Brett, and are
+also covered by [Creative Commons Attribution 4.0 International Licence (CC BY
 4.0)](http://creativecommons.org/licenses/by/4.0).
+
+*   `mona_lisa.jpg` is a public domain image from
+    `https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg`.
+*   `images/sexiest_job.png` is a screen shot from
+    https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
+    and appears to be copyright the Harvard Business Review.
