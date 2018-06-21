@@ -86,6 +86,10 @@ http://www.jstor.org/stable/pdf/27958125.pdf
 * Textbook is [Inferential and computational thinking](https://www.inferentialthinking.com).
 * Source for textbook [on Github](https://github.com/data-8/textbook).
 
+# Algorithms
+
+\centerline{\includegraphics[height=3.5in]{images/Weapons_of_Math_Destruction.jpg}}
+
 # Data journalism
 
 \centerline{\includegraphics[width=5in]{images/propublica.png}}
@@ -104,8 +108,9 @@ Full analysis at https://github.com/propublica/compas-analysis
 * all undergraduates will take these courses, to teach quantitative methods
   across fields;
 * we will have much more cross-discipline teaching, because of shared courses
-  and shared tool.
-* our students will more thoughtful and effective academics and citizens.
+  and shared tools.
+* our students will be more thoughtful and effective as academics and
+  citizens.
 
 # Is this the end?
 
