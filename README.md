@@ -33,3 +33,10 @@ also covered by [Creative Commons Attribution 4.0 International Licence (CC BY
 *   `images/sexiest_job.png` is a screen shot from
     https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
     and appears to be copyright the Harvard Business Review.
+*   `images/propublica.png` is a screen shot from
+    https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+    and appears to be copyright Julia Angwin, Jeff Larson, Surya Mattu and
+    Lauren Kirchner, ProPublica
+*   `images/ptolemaic.png` is a screen shot from
+    https://escholarship.org/uc/item/6hb3k0nz.  It may be copyright George W.
+    Cobb.
