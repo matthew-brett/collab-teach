@@ -2,7 +2,7 @@
 # YAML metadata
 title: Cross-discipline teaching in data analysis
 author: Matthew Brett
-bibliography: data_science.bib
+bibliography: data-science-bib/data_science.bib
 ---
 
 # Data science
